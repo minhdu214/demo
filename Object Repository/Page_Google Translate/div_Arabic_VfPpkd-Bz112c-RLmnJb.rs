@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Arabic_VfPpkd-Bz112c-RLmnJb</name>
+   <tag></tag>
+   <elementGuidId>9bd4f342-58ea-4b67-bd7b-9d9b604fef1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div/c-wiz/div/c-wiz/div[5]/button/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-Bz112c-LgbsSe.VfPpkd-Bz112c-LgbsSe-OWXEXe-e5LLRc-SxQuSe.yHy1rc.eT1oJ.DiOXab.qiN4Vb.KY3GZb.szLmtb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc.VfPpkd-ksKsZd-mWPk3d.VfPpkd-ksKsZd-mWPk3d-OWXEXe-ZNMTqd > div.VfPpkd-Bz112c-RLmnJb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>89c97a52-2fbf-4e12-9f75-0d934ed89c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-Bz112c-RLmnJb</value>
+      <webElementGuid>0f3f1b55-4697-46e4-8b59-d9c668ef7e5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;zQTmif SSPGKf RvYhPd BIdYQ aL9XFd&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;WFnNle&quot;]/c-wiz[@class=&quot;MOkH4e BSw7K iYelWb yF6Zo&quot;]/div[@class=&quot;OlSOob&quot;]/c-wiz[@class=&quot;QsA0jb&quot;]/div[@class=&quot;ccvoYb EjH7wc&quot;]/div[@class=&quot;aCQag&quot;]/c-wiz[@class=&quot;kHGNJd&quot;]/div[@class=&quot;zXU7Rb&quot;]/c-wiz[@class=&quot;EO28P&quot;]/div[@class=&quot;akczyd&quot;]/button[@class=&quot;VfPpkd-Bz112c-LgbsSe VfPpkd-Bz112c-LgbsSe-OWXEXe-e5LLRc-SxQuSe yHy1rc eT1oJ DiOXab qiN4Vb KY3GZb szLmtb VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d VfPpkd-ksKsZd-mWPk3d-OWXEXe-ZNMTqd&quot;]/div[@class=&quot;VfPpkd-Bz112c-RLmnJb&quot;]</value>
+      <webElementGuid>9c6111b7-9acc-4cae-9c3e-d7bc87c7afe4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div/c-wiz/div/c-wiz/div[5]/button/div[3]</value>
+      <webElementGuid>0cfb3671-965a-4ef5-a0aa-61fbf87d52c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/div[3]</value>
+      <webElementGuid>efbf95dc-9882-479d-834c-f1f92ca392ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hello, this is Mao Zedong, the Catalon _877d50</name>
+   <tag></tag>
+   <elementGuidId>fe320371-d596-4791-8778-3d40ef2f4e28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div[8]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.J0lOec</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>349106ec-35f0-4d4e-89b5-e5edee31829b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>J0lOec</value>
+      <webElementGuid>03670a1a-df90-437d-9a9b-87e0cd2dd464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>こんにちは、これはカタロンサポートチームの毛沢東ですこんにちは、これはカタロンサポートチームの毛沢東ですHello, this is Mao Zedong, the Catalon Support Teamこんにちは、これはKatalon SupportチームのMaoですHello, this is the MAO of the Katalon Support teamCan't load full resultsTry againRetrying...Retrying......(Edited)Restore original</value>
+      <webElementGuid>d89fb827-b4ba-441b-95fd-4a74342f2f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;zQTmif SSPGKf RvYhPd BIdYQ aL9XFd&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;WFnNle&quot;]/c-wiz[@class=&quot;MOkH4e BSw7K iYelWb yF6Zo&quot;]/div[@class=&quot;OlSOob&quot;]/c-wiz[@class=&quot;QsA0jb&quot;]/div[@class=&quot;ccvoYb EjH7wc&quot;]/div[@class=&quot;AxqVh&quot;]/div[@class=&quot;OPPzxe&quot;]/c-wiz[@class=&quot;P6w8m BDJ8fb&quot;]/div[@class=&quot;dePhmb&quot;]/div[@class=&quot;eyKpYb&quot;]/div[@class=&quot;J0lOec&quot;]</value>
+      <webElementGuid>104b0ab8-0cf0-491e-871d-6cafd57d5fcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div[8]/div/div</value>
+      <webElementGuid>a52be2a3-b2f9-45fc-9555-3f23b069ffca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save translation'])[1]/following::div[6]</value>
+      <webElementGuid>62f1e9de-c0d4-4a74-b40e-a24e358bdf7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[1]/following::div[14]</value>
+      <webElementGuid>53c6678a-21e3-42eb-95a7-745f03609816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div</value>
+      <webElementGuid>25178645-d3d9-4adf-b9ba-0b815ea271de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;こんにちは、これはカタロンサポートチームの毛沢東ですこんにちは、これはカタロンサポートチームの毛沢東ですHello, this is Mao Zedong, the Catalon Support Teamこんにちは、これはKatalon SupportチームのMaoですHello, this is the MAO of the Katalon Support teamCan&quot; , &quot;'&quot; , &quot;t load full resultsTry againRetrying...Retrying......(Edited)Restore original&quot;) or . = concat(&quot;こんにちは、これはカタロンサポートチームの毛沢東ですこんにちは、これはカタロンサポートチームの毛沢東ですHello, this is Mao Zedong, the Catalon Support Teamこんにちは、これはKatalon SupportチームのMaoですHello, this is the MAO of the Katalon Support teamCan&quot; , &quot;'&quot; , &quot;t load full resultsTry againRetrying...Retrying......(Edited)Restore original&quot;))]</value>
+      <webElementGuid>774260be-442e-4286-9165-ff23d513db28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

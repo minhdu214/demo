@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hallo, das ist Mao vom Katalon Support -Team</name>
+   <tag></tag>
+   <elementGuidId>f20cf308-9c5b-4a1a-8f65-102af3f14f8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div[8]/div/div/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Q4iAWc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72822cdd-995d-4bdb-812d-6ce814cb9a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Q4iAWc</value>
+      <webElementGuid>8c9d49da-99dc-4fcf-8635-609e47c6495e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje</value>
+      <webElementGuid>a9f03a86-083d-4c51-879e-7afc468db102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>W297wb</value>
+      <webElementGuid>5cd24f99-fad9-481b-8118-b4e877b2be38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hallo, das ist Mao vom Katalon Support -Team</value>
+      <webElementGuid>9108195d-68fb-463d-9fc3-97e12c49741c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;zQTmif SSPGKf RvYhPd BIdYQ aL9XFd&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;WFnNle&quot;]/c-wiz[@class=&quot;MOkH4e BSw7K iYelWb yF6Zo&quot;]/div[@class=&quot;OlSOob&quot;]/c-wiz[@class=&quot;QsA0jb&quot;]/div[@class=&quot;ccvoYb EjH7wc&quot;]/div[@class=&quot;AxqVh&quot;]/div[@class=&quot;OPPzxe&quot;]/c-wiz[@class=&quot;P6w8m BDJ8fb&quot;]/div[@class=&quot;dePhmb&quot;]/div[@class=&quot;eyKpYb&quot;]/div[@class=&quot;J0lOec&quot;]/span[@class=&quot;VIiyi&quot;]/span[@class=&quot;JLqJ4b ChMk0b&quot;]/span[@class=&quot;Q4iAWc&quot;]</value>
+      <webElementGuid>46c2cab5-eca6-4dee-a39e-afd7d0451062</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div[8]/div/div/span/span/span</value>
+      <webElementGuid>dab744dd-df5b-48e0-8dbe-679232017957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save translation'])[1]/following::span[4]</value>
+      <webElementGuid>68644ca7-8bd6-4ea5-bcd5-6c1d10fd2d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[1]/following::span[9]</value>
+      <webElementGuid>20f79b52-c1eb-4add-98ae-c22c88d9d5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hallo, das ist Mao vom Katalon Support -Team'])[2]/preceding::span[1]</value>
+      <webElementGuid>8bf62870-e9e9-4d1d-bd4a-8d1bb0518d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello, this is Mao from the Catalon Support team'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ff472ef-98fd-4bd8-b325-c0c8eb23b8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hallo, das ist Mao vom Katalon Support -Team']/parent::*</value>
+      <webElementGuid>063cf227-b781-47cd-a6bd-b8a29b63401d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/span/span/span</value>
+      <webElementGuid>436f60d3-7e62-4ca3-ac74-66031db2ca25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hallo, das ist Mao vom Katalon Support -Team' or . = 'Hallo, das ist Mao vom Katalon Support -Team')]</value>
+      <webElementGuid>10407dfc-f616-4c82-957a-3b0c6d09c091</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

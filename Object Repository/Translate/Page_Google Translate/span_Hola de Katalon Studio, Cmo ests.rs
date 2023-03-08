@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hola de Katalon Studio, Cmo ests</name>
+   <tag></tag>
+   <elementGuidId>61f45c99-a53c-4156-a851-272b0aa6c12b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div[8]/div/div/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Q4iAWc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9b94f789-775f-4f9b-85d7-3660ad32108b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Q4iAWc</value>
+      <webElementGuid>bca521b6-d9b3-4b68-8273-dc994648d003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje</value>
+      <webElementGuid>79ce183d-7aec-4dca-9bcd-62a4f1c075bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>W297wb</value>
+      <webElementGuid>aa15e6e1-fac1-4380-9c43-912fb1809c8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hola de Katalon Studio, ¿Cómo estás?</value>
+      <webElementGuid>4f0e2f13-8f31-4065-ad7b-96d7001d2fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;zQTmif SSPGKf RvYhPd BIdYQ aL9XFd&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;WFnNle&quot;]/c-wiz[@class=&quot;MOkH4e BSw7K iYelWb yF6Zo&quot;]/div[@class=&quot;OlSOob&quot;]/c-wiz[@class=&quot;QsA0jb&quot;]/div[@class=&quot;ccvoYb EjH7wc&quot;]/div[@class=&quot;AxqVh&quot;]/div[@class=&quot;OPPzxe&quot;]/c-wiz[@class=&quot;P6w8m BDJ8fb&quot;]/div[@class=&quot;dePhmb&quot;]/div[@class=&quot;eyKpYb&quot;]/div[@class=&quot;J0lOec&quot;]/span[@class=&quot;VIiyi&quot;]/span[@class=&quot;JLqJ4b ChMk0b&quot;]/span[@class=&quot;Q4iAWc&quot;]</value>
+      <webElementGuid>79538f4c-2bef-4606-9a44-bfc09e19a7cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div[8]/div/div/span/span/span</value>
+      <webElementGuid>9900a0af-b2c3-4a01-a1eb-03a99ced45c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save translation'])[1]/following::span[4]</value>
+      <webElementGuid>0b6bb653-a9fa-45db-aac7-547f0cdc1df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[1]/following::span[9]</value>
+      <webElementGuid>9c1dafc1-974e-4e2c-883f-55adcd00cba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola de Katalon Studio, ¿Cómo estás?'])[2]/preceding::span[1]</value>
+      <webElementGuid>12e657e5-40a5-4ed5-9cf7-cbbafdef459a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::span[1]</value>
+      <webElementGuid>df40e688-08e2-4502-b4fc-57f4c1e9c93f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hola de Katalon Studio, ¿Cómo estás?']/parent::*</value>
+      <webElementGuid>a056e33b-7e8b-4ffb-8d5f-7f40d85e22d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/span/span/span</value>
+      <webElementGuid>647d9a3f-8b7f-4931-9941-5c6ec59da15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hola de Katalon Studio, ¿Cómo estás?' or . = 'Hola de Katalon Studio, ¿Cómo estás?')]</value>
+      <webElementGuid>911b6dd7-2b64-49a2-bc1d-00c17e5490fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

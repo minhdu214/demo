@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hola desde Katalon Studio, ests haciendo</name>
+   <tag></tag>
+   <elementGuidId>d13262ef-e407-4214-bbee-1ccf220d9f3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div[8]/div/div/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Q4iAWc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>059094ad-340b-489c-ab5b-adb923c3ba07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Q4iAWc</value>
+      <webElementGuid>a7a00ae5-59f1-4b2c-b301-e29de3b1f930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsaction</name>
+      <type>Main</type>
+      <value>click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje</value>
+      <webElementGuid>1b7c0a66-f7d6-4241-b96b-89b9f177a078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>W297wb</value>
+      <webElementGuid>28dbaa34-7097-44fc-8cb9-974839a0fd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hola desde Katalon Studio, ¿estás haciendo?</value>
+      <webElementGuid>472aa9a4-dc80-4272-918d-ac628c2bf336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;zQTmif SSPGKf RvYhPd BIdYQ aL9XFd&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;WFnNle&quot;]/c-wiz[@class=&quot;MOkH4e BSw7K iYelWb yF6Zo&quot;]/div[@class=&quot;OlSOob&quot;]/c-wiz[@class=&quot;QsA0jb&quot;]/div[@class=&quot;ccvoYb EjH7wc&quot;]/div[@class=&quot;AxqVh&quot;]/div[@class=&quot;OPPzxe&quot;]/c-wiz[@class=&quot;P6w8m BDJ8fb&quot;]/div[@class=&quot;dePhmb&quot;]/div[@class=&quot;eyKpYb&quot;]/div[@class=&quot;J0lOec&quot;]/span[@class=&quot;VIiyi&quot;]/span[@class=&quot;JLqJ4b ChMk0b&quot;]/span[@class=&quot;Q4iAWc&quot;]</value>
+      <webElementGuid>2ea4acef-7d5f-44e1-99d8-a30c3807ffb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div/div[2]/div[3]/c-wiz[2]/div[8]/div/div/span/span/span</value>
+      <webElementGuid>e4743b04-cdca-4450-b3b5-c0daba2ba20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save translation'])[1]/following::span[4]</value>
+      <webElementGuid>1a699e3a-bab3-4add-8091-34227116a4d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try again'])[1]/following::span[9]</value>
+      <webElementGuid>a39814e0-a7ff-4146-9b67-0f13e0324941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hola desde Katalon Studio, ¿estás haciendo?'])[2]/preceding::span[1]</value>
+      <webElementGuid>431831dd-c986-4abc-bfc9-27d3612da1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello from Katalon Studio, are you doing?'])[1]/preceding::span[1]</value>
+      <webElementGuid>4806c60f-0ad6-45a3-a7aa-d46ca7417808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hola desde Katalon Studio, ¿estás haciendo?']/parent::*</value>
+      <webElementGuid>8354676a-1a86-4b7d-a171-62df736c3fda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/span/span/span</value>
+      <webElementGuid>830fe080-a4b0-400f-a4d0-94ba1a55afa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hola desde Katalon Studio, ¿estás haciendo?' or . = 'Hola desde Katalon Studio, ¿estás haciendo?')]</value>
+      <webElementGuid>6334a318-d1d1-4057-b711-540b62900e9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

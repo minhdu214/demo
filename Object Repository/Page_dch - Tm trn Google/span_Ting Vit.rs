@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ting Vit</name>
+   <tag></tag>
+   <elementGuidId>e654121d-6beb-45e6-8968-9dd7d6dfeae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tw-tl']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.target-language</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d9b0634-6b72-4cf5-9fcf-561b237e6e28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>target-language</value>
+      <webElementGuid>19c06b1d-7543-439b-b2ce-aed2fc428815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiếng Việt</value>
+      <webElementGuid>7d686294-03f8-4a64-82cf-a62dbc34e6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tw-tl&quot;)/span[@class=&quot;target-language&quot;]</value>
+      <webElementGuid>a9fff24a-9734-4d08-af3a-da5a1e6c1a07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tw-tl']/span</value>
+      <webElementGuid>523ebc10-dda3-4055-b695-6ad66ac1ad74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếng Anh'])[1]/following::span[4]</value>
+      <webElementGuid>ed3902bc-56e9-4561-b483-a70f4b3d4556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kết quả dịch'])[1]/following::span[5]</value>
+      <webElementGuid>cb449eb6-5d3f-4684-9efe-a80e587e531b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhập văn bản'])[1]/preceding::span[2]</value>
+      <webElementGuid>dfb80331-1a25-4070-895d-f56c4f68f29a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Học cách phát âm'])[1]/preceding::span[10]</value>
+      <webElementGuid>21f0b115-c137-4c40-9aa4-1cb22cf4be0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/span</value>
+      <webElementGuid>44819b06-0f22-4322-9a48-36d1b73c3164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tiếng Việt' or . = 'Tiếng Việt')]</value>
+      <webElementGuid>d5688470-32d3-45cb-8a05-d711ad809b8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
